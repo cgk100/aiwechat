@@ -37,7 +37,7 @@ export default function HeaderNav() {
           ))}
         </nav>
         <a
-          href="https://github.com/yourname/wechat-ai-service"
+          href="https://github.com/cgk100/aiwechat"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 text-gray-600 hover:text-primary-500 transition-colors duration-200"

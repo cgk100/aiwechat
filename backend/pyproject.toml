@@ -1,0 +1,19 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.121.0",
+    "uvicorn>=0.38.0",
+    "wxautox>=39.1.42",
+    "wxautox4>=40.1.3",
+    "dspy>=2.5.0",
+    "mysql-connector-python>=9.5.0",
+]
+
+[dependency-groups]
+dev = [
+    "fastapi>=0.121.0",
+]

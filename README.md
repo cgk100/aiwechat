@@ -291,6 +291,8 @@ A: 确认微信客户端可以正常访问好友列表。
 - 提交 [Issue](https://github.com/cgk100/aiwechat/issues)
 - 发送邮件至：digmouse100@gmail.com
 - twitter:https://x.com/MouseDig
+- 微信
+![我的微信](./public/weixin.png)
 
 ---
 

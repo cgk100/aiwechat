@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation";
 export default function HeaderNav() {
   const pathname = usePathname();
   const nav = [
+    { href: "/intro", label: "系统介绍" },
     { href: "/friends", label: "我的好友" },
     { href: "/groups", label: "好友分类" },
     { href: "/marketing", label: "营销推广" },
